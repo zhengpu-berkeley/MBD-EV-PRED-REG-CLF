@@ -1,7 +1,6 @@
 Microbusiness Densisty Prediction
 
 By: the_real_zzp_222
-FOR: INFO251
 
 FEEL FREE TO DOWNLOAD THE DATA 
 AND RUN THE FOLLOWING NOTEBOOKS!!
